@@ -1,4 +1,4 @@
-## Studying python doing codingtest (2021.6 ~ ing)
+## Studying python doing codingtest 
 
 solution of codingtest in site_programmers
 
