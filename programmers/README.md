@@ -1,4 +1,4 @@
-## Studying python doing codingtest 
+## Programmers Algorithm Solution
 
 solution of codingtest in site_programmers
 
