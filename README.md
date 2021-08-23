@@ -1,4 +1,4 @@
-##  :seedling: Studying python doing codingtest 
+##  :seedling: Studying python doing codingtest :seedling:
 
 |Number|사이트 |기간|
 |:---:|:---:|:---:|
