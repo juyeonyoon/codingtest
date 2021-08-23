@@ -2,4 +2,4 @@
 
 |Number|사이트 |기간|
 |:---:|:---:|:---:|
-|1.| programmers | 21.06 ~ ing |
+|1.| programmers | 21.06 ~ ing | (../programmers/README.md)
