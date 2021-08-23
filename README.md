@@ -2,4 +2,4 @@
 
 |Number|사이트 |기간| |
 |:---:|:---:|:---:|:---:|
-|1.| programmers | 21.06 ~ ing | [dd](../programmers/README.md)
+|1.| programmers | 21.06 ~ ing | [dd](..codingtest//programmers/README.md)
